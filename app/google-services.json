@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276217239195",
+    "project_id": "vouchersteam-b70d4",
+    "storage_bucket": "vouchersteam-b70d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276217239195:android:eaf37d7e57d52bdc82583e",
+        "android_client_info": {
+          "package_name": "com.example.vouchersteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276217239195-tdfao3regd9oa8n4sm989pvckihlm5r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7IZHJlr7kjDs_T5AzNy8fVcfCImpCxik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276217239195-tdfao3regd9oa8n4sm989pvckihlm5r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
